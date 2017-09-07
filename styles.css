@@ -9,6 +9,7 @@ body {
 }
 .my-list-item a {
 	color: darkgreen;
+	text-decoration: none;
 }
 .my-list-item a:hover{
 	color: blue;
