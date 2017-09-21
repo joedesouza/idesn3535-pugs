@@ -27,7 +27,6 @@ header {
 	}
 
 /*This is the begining of the navigation*/
-
 nav {
 	margin-left:5%;
 	height: 100%;
@@ -88,7 +87,7 @@ nav ul li a:hover {
 /*This is the end of the container*/ 
 /*This is the begining of the main*/
 .main {
-	
+	padding-left: 2.0%;
 	
 
 }
@@ -105,3 +104,25 @@ footer {
 	
 }
 /*This is the end of the footer*/
+a {
+			color:#000;
+		}
+		a:link {
+    		text-decoration: none;
+		}
+
+		a:visited {
+    		text-decoration: inherit;
+		}
+
+		a:hover {
+		    color: red;
+		}
+
+		a:active {
+		    color: #000;
+		}
+ul {
+			list-style: none;
+			line-height: 25px;
+		}
